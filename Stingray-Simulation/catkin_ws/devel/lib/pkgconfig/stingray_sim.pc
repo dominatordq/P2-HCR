@@ -1,0 +1,8 @@
+prefix=/home/domq/Stingray-Simulation/catkin_ws/devel
+
+Name: stingray_sim
+Description: Description of stingray_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

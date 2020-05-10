@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/domq/Stingray-Simulation/catkin_ws/devel/setup.sh
